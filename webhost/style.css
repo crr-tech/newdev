@@ -1,0 +1,84 @@
+
+@font-face {
+    font-family: 'Chivo Regular';
+    src: url('http://127.9.9.9/Chivo-Regular.ttf');
+}
+@font-face {
+	font-family: 'Chivo Black';
+	src: url('http://127.9.9.9/Chivo-Black.ttf');
+	}
+::selection {
+background: #bebebe;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Chivo Regular', 'Tahoma', sans-serif;
+}
+h1 {
+font-size: 1.9rem;
+font-family: 'Chivo Black', 'Tahoma', sans-serif;
+}
+p {
+margin-top: 1rem;
+margin-bottom: 1rem;
+}
+.top-nav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    background: black;
+    padding: 9px 19px;
+}
+
+    .top-nav div {
+        margin-right: 19px;
+        margin-left: 19px;
+        height: 19px;
+    }
+
+        .top-nav div a {
+            color: white;
+            height: 19px;
+            text-decoration: none;
+            padding: .19rem 0;
+        }
+
+            .top-nav div a:hover {
+                border-bottom: .19rem solid white;
+            }
+            .top-nav-link-sel {
+            border-bottom: .19rem solid #09BE90;
+            font-family: 'Chivo Black', 'Tahoma', sans-serif;
+            }
+            .new-row-date {
+            font-size: .9rem;
+            color
+            }
+            a {
+            color: #09be90;
+            }
+.new-row {
+border-top: 1px solid #bebebe;
+border-bottom: 1px solid #bebebe;
+padding: 1.9rem .9rem;
+margin-top: .9rem;
+margin-bottom: .9rem;
+}
+.new-row h1 a {
+text-decoration: none;
+color: #09be90;
+}
+.top-nav-a-noborder:hover {
+    border: none !important;
+}
+.body-container {
+	width: 40%;
+	margin: 0 auto;
+	}
+.login-view {
+margin: 0 auto;
+border: 1px solid #bebebe;
+}

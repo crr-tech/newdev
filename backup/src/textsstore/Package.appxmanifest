@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="19c8701c-5ae4-45e8-9066-596ef085a338" Publisher="CN=CRR" Version="100.10.10.1" />
+  <Properties>
+    <DisplayName>CRR Texts</DisplayName>
+    <PublisherDisplayName>CRR</PublisherDisplayName>
+    <Logo>IMG\icon.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="texts.App">
+      <VisualElements DisplayName="CRR Texts" Logo="IMG\logo.png" SmallLogo="IMG\smalllogo.png" Description="CRR Texts IDE" ForegroundText="dark" BackgroundColor="#ffffff" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" WideLogo="IMG\widelogo.png" ShortName="Texts" />
+        <SplashScreen Image="IMG\splash.png" BackgroundColor="#000000" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

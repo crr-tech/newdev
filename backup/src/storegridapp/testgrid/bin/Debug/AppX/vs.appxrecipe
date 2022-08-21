@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ELITEBOOK</Machine>
+    <WindowsUser>MStritof</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>AD46F7B46EE991454C1E206559A6BCA19B1C92AE6EBB7850ADB2E967A1A8FC06</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>319ba004-a720-4c36-b04b-7a30dfde0880_1.0.0.0_neutral__ykx2f6ghfrqcj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>319ba004-a720-4c36-b04b-7a30dfde0880_ykx2f6ghfrqcj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>319ba004-a720-4c36-b04b-7a30dfde0880</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MStritof</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T20:46:38.198</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\testgrid.exe">
+      <PackagePath>testgrid.exe</PackagePath>
+      <Modified>2022-08-16T20:46:37.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\testgrid.pdb">
+      <PackagePath>testgrid.pdb</PackagePath>
+      <Modified>2022-08-16T20:46:37.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2022-08-16T20:46:21.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2022-08-16T20:46:21.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2022-08-16T20:46:21.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2022-08-16T20:46:21.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\storegridapp\testgrid\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-08-16T20:46:37.788</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

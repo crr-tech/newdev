@@ -1,0 +1,8 @@
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.exe
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.pdb
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.csprojResolveAssemblyReference.cache
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.Form1.resources
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.Properties.Resources.resources
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.csproj.GenerateResource.Cache
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.exe
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.pdb

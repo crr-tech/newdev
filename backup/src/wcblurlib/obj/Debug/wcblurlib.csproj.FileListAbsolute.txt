@@ -1,0 +1,6 @@
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\bin\Debug\wcblurlib.dll
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\bin\Debug\wcblurlib.pdb
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\obj\Debug\wcblurlib.dll
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\obj\Debug\wcblurlib.pdb
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\obj\Debug\wcblurlib.csproj.AssemblyReference.cache
+C:\Users\MStritof\Downloads\crr\src\wcblurlib\obj\Debug\wcblurlib.csproj.CoreCompileInputs.cache

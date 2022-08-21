@@ -1,0 +1,14 @@
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.exe
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.pdb
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\MainWindow.baml
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\MainWindow.g.cs
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\App.g.cs
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts_MarkupCompile.cache
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.g.resources
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.Properties.Resources.resources
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.csproj.GenerateResource.Cache
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.exe
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.pdb
+C:\Users\MStritof\Downloads\crr\src\texts\obj\Debug\texts.csprojResolveAssemblyReference.cache
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\wcblurlib.dll
+C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\wcblurlib.pdb

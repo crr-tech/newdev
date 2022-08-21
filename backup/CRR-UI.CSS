@@ -1,0 +1,82 @@
+* {
+    font-family: Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.top-nav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    background: black;
+    padding: 9px 19px;
+}
+
+.top-nav div {
+    margin-right: 19px;
+    margin-left: 19px;
+    height: 19px;
+}
+
+.top-nav div a {
+    color: white;
+    height: 19px;
+    text-decoration: none;
+    padding: .19rem 0;
+}
+
+.top-nav div a:hover {
+    border-bottom: .19rem solid white;
+}
+
+.top-nav-a-noborder:hover {
+    border: none !important;
+}
+input[type="text"],
+input[type="password"] {
+    width: 19rem;
+    padding: .9rem;
+    border: 1px solid black;
+}
+
+input[type="submit"], button {
+    border: 1px solid black;
+    background: white;
+    padding: .19rem .9rem;
+}
+.linestylbr {
+    margin-bottom: 1rem;
+}
+input[type="submit"]:hover, button:hover {
+    background: #cccccc;
+}
+
+input[type="submit"]:active, button:active {
+    background: #999999;
+}
+
+.form-holder {
+    position: absolute;
+    padding: 1.9rem;
+    border: .19rem solid black;
+    background: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.new-row {
+    border: .19rem solid black;
+}
+::selection {
+    background: #cccccc;
+}
+
+.body-container {
+    justify-content: center;
+}
+h1 {
+    font-size: 1.9rem;
+    font-weight: 900;
+}

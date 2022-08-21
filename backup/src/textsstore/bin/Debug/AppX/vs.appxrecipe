@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ELITEBOOK</Machine>
+    <WindowsUser>MStritof</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>190B48305F227C6F7739DE12C00F9EA1303A051BE297B61FB47C95B411B553BE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19c8701c-5ae4-45e8-9066-596ef085a338_100.10.10.1_neutral__pedqfksc44kmt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19c8701c-5ae4-45e8-9066-596ef085a338_pedqfksc44kmt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19c8701c-5ae4-45e8-9066-596ef085a338</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=CRR</RegisteredPackagePublisher>
+    <RegisteredVersion>100.10.10.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T22:04:37.228</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.exe">
+      <PackagePath>texts.exe</PackagePath>
+      <Modified>2022-08-17T08:23:39.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\texts.pdb">
+      <PackagePath>texts.pdb</PackagePath>
+      <Modified>2022-08-17T08:23:39.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\IMG\icon.png">
+      <PackagePath>IMG\icon.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T21:18:27.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\IMG\logo.png">
+      <PackagePath>IMG\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T21:13:45.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\IMG\smalllogo.png">
+      <PackagePath>IMG\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T21:15:01.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\IMG\splash.png">
+      <PackagePath>IMG\splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T21:17:48.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\IMG\widelogo.png">
+      <PackagePath>IMG\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-08-16T21:16:32.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2022-08-16T22:07:39.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2022-08-17T08:23:37.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\MyUserControl1.xaml">
+      <PackagePath>MyUserControl1.xaml</PackagePath>
+      <Modified>2022-08-16T22:02:15.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MStritof\Downloads\crr\src\texts\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-08-16T22:04:37.156</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
