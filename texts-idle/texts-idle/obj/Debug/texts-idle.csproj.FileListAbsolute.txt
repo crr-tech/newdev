@@ -1,0 +1,7 @@
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\obj\Debug\texts.Properties.Resources.resources
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\obj\Debug\texts-idle.csproj.GenerateResource.Cache
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\bin\Debug\application.XML
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\bin\Debug\texts-idle.exe
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\bin\Debug\texts-idle.pdb
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\obj\Debug\texts-idle.exe
+C:\Users\crr\Documents\newdev\texts-idle\texts-idle\obj\Debug\texts-idle.pdb
