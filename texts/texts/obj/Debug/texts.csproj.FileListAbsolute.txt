@@ -1,7 +1,0 @@
-C:\Users\crr\Documents\newdev\texts\texts\bin\Debug\texts.exe
-C:\Users\crr\Documents\newdev\texts\texts\bin\Debug\texts.pdb
-C:\Users\crr\Documents\newdev\texts\texts\obj\Debug\texts.csprojResolveAssemblyReference.cache
-C:\Users\crr\Documents\newdev\texts\texts\obj\Debug\texts.Properties.Resources.resources
-C:\Users\crr\Documents\newdev\texts\texts\obj\Debug\texts.csproj.GenerateResource.Cache
-C:\Users\crr\Documents\newdev\texts\texts\obj\Debug\texts.exe
-C:\Users\crr\Documents\newdev\texts\texts\obj\Debug\texts.pdb
